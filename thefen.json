@@ -9,23 +9,28 @@
     },
         {
       "artist": "Kelly Richardson",
+      "wallet": "tz1M7n1FpvfKhByTPhW3pwbQv67Ka5YV17BC",
       "objkt": [29048, 11598]
     },
     
     {
       "artist": "Juliette Bibasse",
+      "wallet": "tz1XTwTrin3ebUqoieZMwb4LTUqu3GeCa2d7",
       "objkt": [23112, 14099]
     },
         {
       "artist": "Mario Klingemann",
+      "wallet": "tz1hb9PiWxQEf6J9xevPsUM6dkuCLnhDMvsp",
       "objkt": [7571, 26557, 4202, 13565]
     },
     {
       "artist": "Joanie Lemercier",
+      "wallet": "tz1P5Za1TUMsDejgzMM5iMNfHAxDUpPCHiwZ",
       "objkt": [9764, 10352, 12119, 13794]
     },
     {
       "artist": "Ruben Fro",
+      "wallet": "tz1cjn8DAkb7FsCHMJsJq17uRFWhCrGxnzqd",
       "objkt": [10345, 8413, 7025, 6496]
     }
   ]
