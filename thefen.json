@@ -8,6 +8,35 @@
       "objkt": [34413, 35798]
     },
     {
+      "artist": "Cinzia Campolese",
+      "wallet": "tz1VEmtC1Y1WcA2jDGeAVQzSiUGnSJP5wU8A",
+      "objkt": [49110, 48368, 48374, 48377]
+    },
+    {
+      "artist": "Mike Tyka",
+      "wallet": "tz1Mh7WrKQP4PTio9NJUZL4iPW8f9tzBSv1U",
+      "objkt": [47809, 47803, 47792, 47787]
+    },
+    {
+      "artist": "Patrick Tresset",
+      "wallet": "tz2WtFZKsUdx3gQzg5JKbvC4NdeDXi6z1SUE",
+      "objkt": [49905, 49914, 49919, 50110]
+    },
+    {
+      "artist": "Cadie Desbiens",
+      "wallet": "tz1Q5kA2FxYJAVV8DXrTcmFwqejc1T5iTfqb",
+      "objkt": [50392, 50392, 50354, 50347]
+    },
+    {
+      "artist": "Memo Akten",
+      "wallet": "tz1Z1pDsbfuF7t6fHfbVxhjhouRemXuREpH5",
+      "objkt": [49848, 49980, 49972, 49998]
+    },
+    {
+      "artist": "The FEN: previous drops",
+      "objkt": [41628]
+    },
+    {
       "artist": "Lia",
       "wallet": "tz1auPyXVaMy3GntdCQwH2VGNuFj6bAocj2v",
       "objkt": [41014, 41005, 40999, 40993]
@@ -23,10 +52,6 @@
       "objkt": [41195, 41212, 41159, 41153]
     },
     {
-      "artist": "The FEN: previous drops",
-      "objkt": [41628]
-    },
-    {
       "artist": "Auriea Harvey",
       "wallet": "tz1a1L6vroYFXEwLn6A23woo8ae2EgA5QfSy",
       "objkt": [34983, 35005, 38079, 38050]
@@ -37,7 +62,7 @@
       "objkt": [38476, 38470, 38468, 38466]
     },
     {
-      "artist": "Dave  Whyte",
+      "artist": "Dave Whyte",
       "wallet": "tz1f8C3UzHL3sUVb9UYCuAsfnFaBtX1HzC3Q",
       "objkt": [38548, 38546, 38551, 38555]
     }
