@@ -8,6 +8,35 @@
       "objkt": [34413, 35798]
     },
     {
+      "artist": "Raphaël de Courville",
+      "wallet": "tz1hfuVWgcJ89ZE75ut9Qroi3y7GFJL5Lf2K",
+      "objkt": [67976,67962,67954,67933]
+    },
+    {
+      "artist": "Diane Drubay",
+      "wallet": "tz1b1sH2FmuVazszFdkUn8GvfvZpNxSa7C8J",
+      "objkt": [67966,67956,67948,67929]
+    },
+    {
+      "artist": "Mario Klingemann",
+      "wallet": "tz1hb9PiWxQEf6J9xevPsUM6dkuCLnhDMvsp",
+      "objkt": [65888,65891,65896,65905]
+    },
+    {
+      "artist": "Helena Sarin",
+      "wallet": "tz2GLYoq3erGG5ajCxrYjk5aNMeHw4kDtzMV",
+      "objkt": [66420,66390,66239,66277]
+    },
+    {
+      "artist": "Han",
+      "wallet": "tz1MhbALVbm8ioTxZXsQ6wrKJ5pABiAEDs8H",
+      "objkt": [65960,65965,65971,65980]
+    },
+    {
+      "artist": "The FEN: previous drops",
+      "objkt": [41628]
+    },
+    {
       "artist": "Patricio Gonzalez Vivo",
       "wallet": "tz1NqueFctvNCQrsELm6k4N6XfwAYu5Qp5LN",
       "objkt": [50460,50457,50442,50433]
@@ -20,7 +49,7 @@
     {
       "artist": "Golan Levin",
       "wallet": "tz1eQThmh9yuuxjvFBWbRGKUr2goUw1gAd39",
-      "objkt": [56312,56737,56397,56433]
+      "objkt": [56312,56639,56397,56433]
     },    
     {
       "artist": "Addie Wagenknecht",
@@ -31,10 +60,6 @@
       "artist": "Zach Lieberman",
       "wallet": "tz1dgXcFWb6F4F1ohd34k62KTmAfT6W1yKNb",
       "objkt": [55132,55667,55173,55176]
-    },
-    {
-      "artist": "The FEN: previous drops",
-      "objkt": [41628]
     },
     {
       "artist": "Cinzia Campolese",
@@ -54,7 +79,7 @@
     {
       "artist": "Cadie Desbiens",
       "wallet": "tz1Q5kA2FxYJAVV8DXrTcmFwqejc1T5iTfqb",
-      "objkt": [50392, 50363, 50354, 50347]
+      "objkt": [50392, 50392, 50354, 50347]
     },
     {
       "artist": "Memo Akten",
