@@ -8,6 +8,30 @@
       "objkt": [34413, 35798]
     },
     {
+      "artist": "Myriam Bleau",
+      "wallet": "tz1gKbF1fpRe1qctjmiHimKpHTpKxdKGhSF4",
+      "objkt": [113763 ,113787 ,113792 ,113949 ]
+    },
+    {
+      "artist": "Mike Brondbjerg",
+      "wallet": "tz1dPf8rt4WL7xfDu7WjNVCapnnHb1yV26ow",
+      "objkt": [111199 ,111132 ,111148 ,111157 ]
+    },
+    {
+      "artist": "Shantell Martin",
+      "wallet": "tz1YTFrRNKg9FgFUXU5Q8VGFhwrDghGRPPdL",
+      "objkt": [76872 ,76894 ,78827 ,78830 ]
+    },
+    {
+      "artist": "Joanie Lemercier",
+      "wallet": "tz1P5Za1TUMsDejgzMM5iMNfHAxDUpPCHiwZ",
+      "objkt": [33076 ,114144 ,114355 ,114135 ]
+    },
+    {
+      "artist": "The FEN: previous drops",
+      "objkt": [41628]
+    },
+    {
       "artist": "Raphaël de Courville",
       "wallet": "tz1hfuVWgcJ89ZE75ut9Qroi3y7GFJL5Lf2K",
       "objkt": [67976,67962,67954,67933]
@@ -31,10 +55,6 @@
       "artist": "Han",
       "wallet": "tz1MhbALVbm8ioTxZXsQ6wrKJ5pABiAEDs8H",
       "objkt": [65960,65965,65971,65980]
-    },
-    {
-      "artist": "The FEN: previous drops",
-      "objkt": [41628]
     },
     {
       "artist": "Patricio Gonzalez Vivo",
