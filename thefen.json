@@ -8,6 +8,35 @@
       "objkt": [34413, 35798]
     },
     {
+      "artist": "Universal everything",
+      "wallet": "tz1fzB7H3w24zVjjUKn91PAfAmq7b9wdAm46",
+      "objkt": [91535,91941,91945,91956]
+    },
+    {
+      "artist": "Sasha Tiles",
+      "wallet": "tz1UDFDYRcKU2LXkvAVAz5cQ9mBLwmnbtvM4",
+      "objkt": [125721,125763,125742,125749]
+    },
+	{
+      "artist": "Alex J. Champandard",
+      "wallet": "tz1XwHPh5Xt97tkxoGiiGRT716d8WtkJmQ6h",
+      "objkt": [126263,126265,126270,126273]
+    },
+   {
+      "artist": "Saskia Freeke",
+      "wallet": "tz1R592HZH4cFAYdNcVntGfXBMB7tGu9xDGN",
+      "objkt": [126873,126662,126675,126679]
+    },
+	{
+      "artist": "Ali Demirel and Richie Hawtin",
+      "wallet": "tz1aZVPrx5tmtWApd4NeYdNq9o82fWv3ZQh4",
+      "objkt": [125146,125377,125339,125395]
+    },
+    {
+      "artist": "The FEN: previous drops",
+      "objkt": [41628]
+    },
+    {
       "artist": "Myriam Bleau",
       "wallet": "tz1gKbF1fpRe1qctjmiHimKpHTpKxdKGhSF4",
       "objkt": [113763 ,113787 ,113792 ,113949 ]
@@ -26,10 +55,6 @@
       "artist": "Joanie Lemercier",
       "wallet": "tz1P5Za1TUMsDejgzMM5iMNfHAxDUpPCHiwZ",
       "objkt": [114135 ,114355 ,114144 , 33076]
-    },
-    {
-      "artist": "The FEN: previous drops",
-      "objkt": [41628]
     },
     {
       "artist": "Raphaël de Courville",
